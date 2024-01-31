@@ -1,4 +1,5 @@
-# NSBL web crawler #
+# RunSheetControl #
+Previously named NSBL web crawler
 
 ## Description ##
 
